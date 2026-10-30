@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🤔 Name: 林语棠 | Yutang Lin
 - 🔭 I’m a junior student of Electronic Engineering at Tsinghua University.
-- 📫 How to reach me: yt-lin21@mails.tsinghua.edu.cn / lyt11210407@gmail.com / 1343577541@qq.com
+- 📫 How to reach me: yt-lin21@mails.tsinghua.edu.cn / lyt11210407@gmail.com 
 <!--
 **Miyanaga-nonoka/Miyanaga-nonoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
